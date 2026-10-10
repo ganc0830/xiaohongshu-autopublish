@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书图文发布"
+  short_description: "本人确认图片文案后自动发布多图笔记，遇登录或权限验证等待处理"
+  default_prompt: "使用 $xiaohongshu-publish 将我准备好的图片和文案发布到已授权的小红书账号，并核验发布状态。"
